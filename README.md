@@ -3,4 +3,6 @@
 # emma
 # naia
 # iris
+# joshua
+# naia
 # kara
